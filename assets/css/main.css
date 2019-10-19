@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222;
+    font-size: 16px;
+    line-height: 1.4;
+    margin: 0;
+}
+
+/* 
+APP
+*/
+
+.app {
+
+}
+/* 
+HEADER 
+*/
+
+.header {
+
+}
+.header .header_logo {
+
+}
+
+/* 
+CONTENT BASIC
+*/
+
+.content {
+
+}
+.content .home {
+
+}
+.content .home .projects {
+
+}
+.content .filtering {
+
+}
+.content .filtering .filtering_title{
+
+}
+.content .filtering .filters{
+
+}
+
+/* 
+PROJECT
+*/
+
+.project {
+
+}
+.project .project_title {
+
+}
+
+.project .project_title .title{
+
+}
+.project .project_title .categories{
+
+}
+.project .project_title .categories .categorie{
+
+}
+.project .project_description{
+
+}
+.project .project_date{
+
+}
+
+.project .project_date_icon{
+
+}
+.project .project_date_date{
+
+}
+/* 
+FILTERS
+*/
+
+.filter {
+
+}
+
+.filter .filter_title {
+
+}
+
+.filter .filter_icon {
+
+}
